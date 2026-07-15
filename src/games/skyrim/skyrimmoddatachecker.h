@@ -37,7 +37,8 @@ protected:
                               "CalienteTools",
                               "NetScriptFramework",
                               "shadersfx",
-                              "Nemesis_Engine"};
+                              "Nemesis_Engine",
+                              "Pandora_Engine"};
     return result;
   }
   virtual const FileNameSet& possibleFileExtensions() const override

@@ -36,7 +36,9 @@ protected:
                               "SkyProc Patchers",
                               "CalienteTools",
                               "NetScriptFramework",
-                              "shadersfx"};
+                              "shadersfx",
+                              "Nemesis_Engine",
+                              "Pandora_Engine"};
     return result;
   }
   virtual const FileNameSet& possibleFileExtensions() const override

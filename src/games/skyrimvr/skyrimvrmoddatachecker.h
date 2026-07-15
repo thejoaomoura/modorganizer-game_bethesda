@@ -18,7 +18,7 @@ protected:
         "facegen",   "materials",      "skse",          "distantlod",
         "asi",       "Tools",          "MCM",           "distantland",
         "mits",      "dllplugins",     "CalienteTools", "NetScriptFramework",
-        "shadersfx", "Nemesis_Engine", "LightPlacer"};
+        "shadersfx", "Nemesis_Engine", "LightPlacer",   "Pandora_Engine"};
     return result;
   }
   virtual const FileNameSet& possibleFileExtensions() const override
